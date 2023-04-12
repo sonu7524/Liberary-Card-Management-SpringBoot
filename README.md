@@ -6,4 +6,5 @@ API's.
 Framework used : Spring boot,JPA Hibernate(MYSQL
 DB),Maven,Postman.
 
+# DB DESIGN
 ![image](https://github.com/sonu7524/Student-Liberary-Mangement/blob/master/Screenshot%20(18).png)
